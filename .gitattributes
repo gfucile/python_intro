@@ -1,0 +1,5 @@
+Datasets/*.tsv filter=lfs diff=lfs merge=lfs -text
+Datasets/*.fa filter=lfs diff=lfs merge=lfs -text
+Datasets/*.gtf filter=lfs diff=lfs merge=lfs -text
+Datasets/*.tdl filter=lfs diff=lfs merge=lfs -text
+Datasets/*.gff filter=lfs diff=lfs merge=lfs -text
